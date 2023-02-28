@@ -30,3 +30,12 @@ let obj = { a: 1, b: 2}
 
 - 배열은 1개의 변수에 여러 개의 값을 순차적으로 저장할 때 사용한다
 - javascript의 배열은 객체이며 다양한 내장 메소드를 포함하고 있다
+
+## 3_conditional_statement - 조건문
+
+## 블록(block)문
+
+## 조건문 (conditional statement)
+
+- 주어진 조건식(conditional expression) 의 평가 결과에 따라 블록문의 실행을 결정한다
+- 조건식은 boolean 값으로 평가될 수 있는 표현식
