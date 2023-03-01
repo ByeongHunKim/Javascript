@@ -33,9 +33,13 @@ let obj = { a: 1, b: 2}
 
 ## 3_conditional_statement - 조건문
 
-## 블록(block)문
+### 블록(block)문
 
-## 조건문 (conditional statement)
+### 조건문 (conditional statement)
 
 - 주어진 조건식(conditional expression) 의 평가 결과에 따라 블록문의 실행을 결정한다
 - 조건식은 boolean 값으로 평가될 수 있는 표현식
+
+## 4_function - 함수
+
+- 함수는 이름과 매개변수를 갖으며 필요한 때에 호출하여 코드 블록에 담긴 문들을 일괄적으로 실행
