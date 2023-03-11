@@ -60,3 +60,8 @@ let obj = { a: 1, b: 2}
 ### break문
 
 ### continue문
+
+## 6_let_and_const - let & const
+
+- 기존에는 var 키워드로 변수와 상수를 모두 정의하였다
+- let은 변수, const는 상수를 의미한다
