@@ -65,3 +65,6 @@ let obj = { a: 1, b: 2}
 
 - 기존에는 var 키워드로 변수와 상수를 모두 정의하였다
 - let은 변수, const는 상수를 의미한다
+
+## 7_arrow_function - 화살표 함수
+- 화살표함수(arrow function)는 function 키워드 대신 화살표(=>) 를 사용하여 보다 간략한 방법으로 함수를 선언할 수 있다
